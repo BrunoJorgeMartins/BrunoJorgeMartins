@@ -43,17 +43,6 @@ Tenho sólida experiência em **C#, ASP.NET, SQL Server e MySQL**, com controlo 
 
 **Também domino:** Arquitetura de Aplicações · Design Patterns · UML · Debugging e Troubleshooting · Gestão de Incidentes · Root Cause Analysis · Documentação técnica
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoJorgeMartins&theme=tokyonight" alt="Detalhes do perfil">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoJorgeMartins&theme=tokyonight" alt="Estatísticas do GitHub">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BrunoJorgeMartins&theme=tokyonight&hide_border=true" alt="Sequência de contribuições">
-</p>
-
 ## 🎓 Formação
 
 - **Licenciatura em Engenharia Informática** — Universidade Técnica de Angola (2016–2022)
