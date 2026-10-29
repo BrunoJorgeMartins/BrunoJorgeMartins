@@ -46,8 +46,8 @@ Tenho sólida experiência em **C#, ASP.NET, SQL Server e MySQL**, com controlo 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrunoJorgeMartins&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoJorgeMartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoJorgeMartins&theme=tokyonight" alt="Detalhes do perfil">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoJorgeMartins&theme=tokyonight" alt="Estatísticas do GitHub">
 </p>
 
 <p align="center">
